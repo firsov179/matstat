@@ -1,5 +1,5 @@
 # <img src="https://github.com/fodof91/fodof91/blob/main/data-analysis.png" width="40" height="40"/> Отчет о ДЗ по математической статистике 
-### Вариант 2 Калабай Михаил, Порфирьеа Антон, Фирсов Федор
+### Вариант 2 Калабай Михаил, Порфирьев Антон, Фирсов Федор
 
 
 <img align="left" width="120" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
