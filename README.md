@@ -3,7 +3,8 @@
 ### Вариант 2 Калабай Михаил, Порфирьев Антон, Фирсов Федор
 
 
-<img align="left" width="120" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" width="120" src="https://github.com/fodof91/matstat/assets/60088195/b3293a41-f8e3-4a41-90da-af4b3cdcf071" />
+
 
 #### Инструменты 
  Для выполнения расчетов мы использовали язык Python с библиотеками pandas, numpy, sklearn, statsmodels и т.д. и среды Google Colab. 
